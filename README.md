@@ -1,1 +1,1 @@
-# MultiDi_NumPys
+# NumPy
